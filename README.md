@@ -9,7 +9,7 @@ Upgraded dark-neon portfolio with animations, particles, typing effect, timeline
    npm install
    npm run dev
    ```
-3. Open the local URL shown by Vite (usually http://localhost:5173).
+3. Open the local URL shown by Vite (usually http://localhost:5173). if not type npm run dev and the URL will appear
 
 ## Notes
 - Contact form is frontend-ready. Add a backend endpoint `/api/contact` to send emails (Nodemailer or serverless functions).
